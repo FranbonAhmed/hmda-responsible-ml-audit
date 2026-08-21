@@ -1,0 +1,7 @@
+area,metric,alert_trigger,frequency
+Fairness,AIR by race and sex,AIR < 0.80 or > 1.25,Monthly
+Fairness,FPR disparity by race,FPR gap > 5 percentage points,Monthly
+Performance,Test AUC and log loss,AUC drops > 2 percentage points from baseline,Monthly
+Calibration,Brier score by subgroup,Subgroup Brier > 0.20,Quarterly
+Drift,"PSI on income, DTI, property value",PSI > 0.25 on any feature,Monthly
+Security,Subgroup FPR post-retrain,Any > 10% shift from prior,Each retrain

@@ -1,0 +1,4 @@
+model,test_accuracy_at_0_80,test_auc,brier_score,auc_train_minus_test_gap,source_role
+Logistic Regression,0.6699,0.7812,0.1447,-0.0003,Baseline
+Random Forest,0.6898,0.8426,0.1209,0.0008,Challenger
+Gradient Boosting,0.708,0.8377,0.1224,0.0006,Source-team selected model

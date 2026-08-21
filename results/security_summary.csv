@@ -1,0 +1,5 @@
+test,setting,metric,value,source_interpretation
+Evasion / input gaming,epsilon=0.10,mean approval probability change,-0.0054,"8,944 prediction flips"
+Evasion / input gaming,epsilon=0.20,mean approval probability change,-0.0051,"26,329 prediction flips"
+Label-flip poisoning,5% poison rate,delta AUC,0.0004,AIR-style ratio 0.9060 -> 0.8951
+Membership inference,confidence attack,membership inference AUC,0.5,No detectable separation in source run
