@@ -164,7 +164,7 @@ hmda-responsible-ml-audit/
 ## Reproduce locally
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/FranbonAhmed/hmda-responsible-ml-audit.git
 cd hmda-responsible-ml-audit
 python -m venv .venv
 pip install -r requirements.txt
@@ -175,7 +175,7 @@ Open the notebooks in numerical order. The data setup cell will look for an extr
 
 ## Team / authorship note
 
-This was a **Group team capstone**. This portfolio repository preserves and refactors the group analysis for professional presentation; it does not claim sole authorship of every modeling, fairness, security, or governance component.
+This was a Group team capstone. This portfolio repository preserves and refactors the group analysis for professional presentation; it does not claim sole authorship of every modeling, fairness, security, or governance component.
 
 ## Responsible-use note
 
