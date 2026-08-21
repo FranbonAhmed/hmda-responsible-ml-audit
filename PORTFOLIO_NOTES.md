@@ -39,4 +39,4 @@ The portfolio describes proxy, age, and disparate-impact findings as **audit ris
 
 ## 6. Team attribution preserved
 
-This was completed as a Group capstone project for DNSC 6330. Public packaging does not attribute every analysis component to a single individual.
+This was completed as a capstone project for DNSC 6330. Public packaging does not attribute every analysis component to a single individual.
