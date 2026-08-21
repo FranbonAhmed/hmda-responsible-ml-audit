@@ -4,7 +4,7 @@
 
 This portfolio project audits mortgage approval prediction models built from the **2024 HMDA Loan Application Register**. The objective is not only to compare predictive performance, but to evaluate whether a model is **fair, explainable, robust, secure, monitorable, and defensible for deployment**.
 
-This work originated as the **Group 6 capstone for DNSC 6330: Responsible Machine Learning at George Washington University (May 2026)**.
+This work originated as the ** Capstone project for DNSC 6330: Responsible Machine Learning at George Washington University (May 2026)**.
 
 ## Why this project matters
 
