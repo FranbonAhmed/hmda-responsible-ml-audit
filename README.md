@@ -173,9 +173,9 @@ jupyter notebook
 
 Open the notebooks in numerical order. The data setup cell will look for an extracted HMDA `.txt` file in `data/raw/`; if none is present, it uses the shared source-data download configured in the original team notebooks.
 
-## Team / authorship note
+## Project origin
 
-This was a Group team capstone. This portfolio repository preserves and refactors the group analysis for professional presentation; it does not claim sole authorship of every modeling, fairness, security, or governance component.
+This analysis originated as a five-person graduate capstone. I maintain this portfolio version to document the methods, results, and Responsible ML lessons from the project.
 
 ## Responsible-use note
 
