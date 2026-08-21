@@ -4,7 +4,7 @@
 
 This portfolio project audits mortgage approval prediction models built from the **2024 HMDA Loan Application Register**. The objective is not only to compare predictive performance, but to evaluate whether a model is **fair, explainable, robust, secure, monitorable, and defensible for deployment**.
 
-This work originated as the ** Capstone project for DNSC 6330: Responsible Machine Learning at George Washington University (May 2026)**.
+This work originated as a **capstone project for DNSC 6330: Responsible Machine Learning at George Washington University (May 2026).**
 
 ## Why this project matters
 
@@ -44,7 +44,7 @@ Protected / sensitive audit attributes such as race, sex, applicant age, and sta
 
 ### Model-selection interpretation
 
-The source team retained **Gradient Boosting (GBT)** as the audit model because it provided strong discrimination and calibration while supporting the source project's fairness / governance tradeoff analysis.
+The original project retained **Gradient Boosting (GBT)** as the audit model because it provided strong discrimination and calibration while supporting the source project's fairness / governance tradeoff analysis.
 
 Importantly, the saved source outputs show that **Random Forest has slightly higher test AUC and a slightly lower Brier score than GBT**. The portfolio therefore does **not** claim that GBT wins every predictive metric.
 
